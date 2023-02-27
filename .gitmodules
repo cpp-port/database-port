@@ -1,0 +1,3 @@
+[submodule "libmysql"]
+	path = libmysql
+	url = ../libmysql
